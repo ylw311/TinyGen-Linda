@@ -99,7 +99,7 @@ Code structure is organized as follows:
 - `main.py`: Contains the FastAPI application and the API endpoints.
 - `diff.py`: Contains the diff generation and reflection algorithms.
 - `llm.py`: Contains openai models for modularity and easy swapping.
-- `requests.py`: Contains type checking for the request body.
+- `request_data.py`: Contains type checking for the request body.
 - Utils
     - `prompts.py`: Contains the prompt engineering functions.
     - `tools.py`: Contains utility functions for file parsing and diff generation.

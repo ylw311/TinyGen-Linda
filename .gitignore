@@ -1,0 +1,4 @@
+venv
+temp_repo
+__pycache__
+.env

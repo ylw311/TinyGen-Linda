@@ -6,7 +6,9 @@ Author: Linda Wang
 
 
 <!-- TODO give the public URL to hit  -->
+Public API URL: https://tinygen-linda.onrender.com/generate-diff
 
+You can see the api documentation at https://tinygen-linda.onrender.com/docs
 
 
 <!-- TODO table of contents? -->
